@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "spravesh1818",
+  "repo": "container-c1wonji",
+  "name": "spravesh1818",
+}
